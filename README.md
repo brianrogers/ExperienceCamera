@@ -1,7 +1,7 @@
 ExperienceCamera
 ================
 
-ExperienceCamera is a sample app for the TinCanAPI/ExperienceAPI. I wrote this while on vacation in Orlando to be able to record my visual experiences using the TinCanAPI/ExperienceAPI.
+ExperienceCamera is a sample app for the TinCanAPI/ExperienceAPI. I wrote this while on vacation in Orlando to be able to record my visual experiences using the TinCanAPI/ExperienceAPI. I wanted to share this sample code with anyone who wanted to do something similar and to promote the TinCanAPI/ExperienceAPI by creating another tool to create more statement data.
 
 
 ##Getting Started
