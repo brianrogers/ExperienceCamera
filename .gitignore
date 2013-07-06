@@ -18,4 +18,4 @@ include/
 *.a
 RSTCAPI/
 Pods/
-.lock
+*.lock
