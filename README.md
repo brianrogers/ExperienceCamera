@@ -27,3 +27,8 @@ Coming soon...
 ##Future Enhancments
 * comments stored as statements with original statement as StatementRef
 * user auth in NodeJs viewer app
+
+
+##Acknowledgments
+Awesome tincan-camera lens icon created by Jeffery Horne at RusticiSoftware
+TCAPI connection provided by TinCanObjC OSS Library - https://github.com/RusticiSoftware/TinCanObjC
