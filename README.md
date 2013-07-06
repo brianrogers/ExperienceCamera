@@ -27,7 +27,7 @@ Coming soon...
 ##Future Enhancments
 * comments stored as statements with original statement as StatementRef
 * user auth in NodeJs viewer app
-
+* http://instagram.com/developer/iphone-hooks/
 
 ##Acknowledgments
 Awesome tincan-camera lens icon created by Jeffery Horne at RusticiSoftware
