@@ -22,7 +22,8 @@ ExperienceCamera is a sample app for the TinCanAPI/ExperienceAPI. I wrote this w
 Coming soon...
 
 
-
+##License
+The app code is MIT licensed but the TCAPI connector has a different license. Be sure to review it before using this beyond example scope.
 
 ##Future Enhancments
 * comments stored as statements with original statement as StatementRef
@@ -30,5 +31,7 @@ Coming soon...
 * http://instagram.com/developer/iphone-hooks/
 
 ##Acknowledgments
-Awesome tincan-camera lens icon created by Jeffery Horne at RusticiSoftware
+Awesome tincan-camera lens icon created by Jeffery Horne at RusticiSoftware.
+
 TCAPI connection provided by TinCanObjC OSS Library - https://github.com/RusticiSoftware/TinCanObjC
+
