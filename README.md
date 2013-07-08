@@ -19,7 +19,10 @@ ExperienceCamera is a sample app for the TinCanAPI/ExperienceAPI. I wrote this w
 
 ### NodeJs viewer app
 
-Coming soon...
+The nodeJs web app is contained in the xcam.js file. There is a Procfile for heroku installation and a package.json for installing requirements from NPM.
+
+	npm install
+	foreman start
 
 
 ##License
