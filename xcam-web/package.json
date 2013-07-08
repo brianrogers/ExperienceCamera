@@ -1,0 +1,11 @@
+{
+  "name": "xcam",
+  "description": "experience camera viewer app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+	"moment": "2.x",
+	"node-uuid": "1.x"
+  }
+}
