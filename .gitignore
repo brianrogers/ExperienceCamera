@@ -19,3 +19,4 @@ include/
 RSTCAPI/
 Pods/
 *.lock
+node_modules/
