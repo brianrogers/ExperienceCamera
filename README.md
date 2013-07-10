@@ -25,9 +25,6 @@ The nodeJs web app is contained in the xcam.js file. There is a Procfile for her
 	foreman start
 
 
-##License
-The app code is MIT licensed but the TCAPI connector has a different license. Be sure to review it before using this beyond example scope.
-
 ##Future Enhancments
 * comments stored as statements with original statement as StatementRef
 * user auth in NodeJs viewer app
